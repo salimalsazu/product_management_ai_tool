@@ -78,7 +78,7 @@ const messages = [
   {
     role: "user",
     content:
-      " I want to add a new product, name: 'Laptop', price: 1000, category: 'Electronics'",
+      " I want to add another product, name mouse price should be 20 under IT category ",
   },
 ];
 
